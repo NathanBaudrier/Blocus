@@ -1,5 +1,10 @@
 # Documentation
 
+## Présentation
+
+Ceci est un projet dans le cadre de mes études en BUT Informatique à Fontainebleau (UPEC), vous retrouverez les consignes ainsi que le guide d'installation de la librairie de l'établissement à l'adresse suivante : https://iut-fbleau.fr/sitebp/doc/doc_bib_graphique/index.php. 
+Vous trouverez également un compte rendu en `.pdf` dans ce dossier.
+
 <br>
 
 ## Configuration  
