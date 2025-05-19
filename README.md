@@ -7,6 +7,8 @@ Vous trouverez également un compte rendu en `.pdf` dans ce dossier.
 
 <br>
 
+Note obtenue : 18/20
+
 ## Configuration  
 
 <br>
